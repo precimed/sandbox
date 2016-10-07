@@ -1,0 +1,10 @@
+Python methods
+==============
+
+This page describes Goodness class.
+
+.. automodule:: tools
+
+.. autoclass:: Goodness
+   :members:
+   :special-members: __init__
