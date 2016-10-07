@@ -4,7 +4,8 @@ Public repository for misc experiments
 
 ## Read the Docs documentation
 
-The documentation for this repository is written in reST (reStructuredText) [1]
+The [online documentation](http://precimed-sandbox2.readthedocs.io/en/latest/)
+for this repository is written in reST (reStructuredText) [1]
 using Sphinx documentation system [2]
 and Read the Docs [3].
 
@@ -18,6 +19,6 @@ To create an HTML version of the docs:
 
 The documentation in `docs/_build/html/index.html` can then be viewed in a web browser.
 
-[1] http://docutils.sourceforge.net/rst.html
-[2] http://sphinx-doc.org/
-[3] https://readthedocs.org/
+1. http://docutils.sourceforge.net/rst.html
+2. http://sphinx-doc.org/
+3. https://readthedocs.org/
