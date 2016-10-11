@@ -11,4 +11,4 @@ class Goodness(object):
            Prints some text to the console.
         """
         print(self._value)
-        return True
+        return False
